@@ -4,7 +4,12 @@ public class First
 		System.out.println("Hello Git");
 	}
 
+<<<<<<< HEAD
 	int addfunction(int a,int b){
 		return a + b ;
+=======
+	int devide(int a,int b){
+		return a/b;
+>>>>>>> test
 	}
 }
